@@ -1,14 +1,14 @@
 apiVersion: v2
 publisher: vkkokkula
-name: hashiCorp-terraform
+name: BPC-terraform
 version: latest
 type: VS Code extension
-displayName: HashiCorp Terraform
-title: HashiCorp Terraform
-description: HashiCorp Terraform
-icon: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinclipart.com%2Fmaxpin%2FiToiRoT%2F&psig=AOvVaw0ibGOa8j5ShZP8B-Xry48S&ust=1642974866967000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIDb_LysxvUCFQAAAAAdAAAAABBc
+displayName: BPC Terraform
+title: BPC Terraform
+description: BPC Terraform
+icon: https://coenraads.gallerycdn.vsassets.io/extensions/coenraads/bracket-pair-colorizer-2/0.2.1/1623576944802/Microsoft.VisualStudio.Services.Icons.Default
 category: Other
 firstPublicationDate: "2021-08-18"
 spec:
   extensions:
-    - https://github.com/vkkokkula/vscode-plugin/raw/main/HashiCorp.terraform-2.19.0.vsix
+    - https://github.com/vkkokkula/vscode-plugin/raw/main/bracket-pair-colorizer-1.0.62.vsix
