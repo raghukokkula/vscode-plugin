@@ -1,0 +1,13 @@
+apiVersion: v2
+publisher: vkkokkula
+name: powershell
+version: latest
+type: VS Code extension
+displayName: powershell
+title: powershell
+description: powershell
+category: Other
+firstPublicationDate: "2021-08-18"
+spec:
+  extensions:
+    - https://github.com/vkkokkula/vscode-plugin/raw/main/ms-vscode.PowerShell-2021.12.0.vsix
